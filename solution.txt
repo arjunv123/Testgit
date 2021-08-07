@@ -1,0 +1,39 @@
+Git Command:
+git config --global user.name "arjunv123"
+git config --global user.email "donrajarjun@gmail.com"
+
+git config --global --edit
+
+git config --list
+
+git init
+
+1s -a
+
+ESc q!
+
+git status
+
+cat sum.java
+
+git add Filename
+
+unsatge ----> git rm --cached Filename
+
+git commit -m "Initial commit"
+
+git log
+
+git checkout [master/branch id]
+
+git checkout -b [branch name] ---> create and switch branch
+
+git merge [branch name]
+
+git tag [name]
+
+git remote add origin[url]
+
+git remote -v
+
+git push -u origin master
